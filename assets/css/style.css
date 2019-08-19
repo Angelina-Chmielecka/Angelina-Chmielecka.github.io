@@ -1,0 +1,8 @@
+#top {
+    text-align: left;
+    padding: 10em 0px;
+    background-image:linear-gradient(to left ,rgba(248, 252, 2, 0.438),rgba(73, 238, 51, 0.678)), url("../../images/butterfly.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
